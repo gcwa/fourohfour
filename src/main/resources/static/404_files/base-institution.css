@@ -1,0 +1,231 @@
+BODY {
+	BACKGROUND-COLOR: #fff
+}
+DIV.colLayout {
+	BACKGROUND-COLOR: #fff
+}
+DIV.fip {
+	HEIGHT: 20px
+}
+DIV.cwm {
+	HEIGHT: 20px
+}
+DIV.cwm IMG {
+	PADDING-TOP: 0px
+}
+DIV.banner {
+	BACKGROUND-IMAGE: url(/000/001/000001-mmb01.2.jpg); BACKGROUND-REPEAT: no-repeat; COLOR: #fff; BACKGROUND-COLOR: #333333
+}
+DIV.banner-eng {
+	BACKGROUND: #fff no-repeat center center
+}
+DIV.banner-lfcoa-eng {
+	BACKGROUND: #fff no-repeat center center
+}
+DIV.banner-fra {
+	BACKGROUND: #fff no-repeat center center
+}
+DIV.banner-lfcoa-fra {
+	BACKGROUND: #fff no-repeat center center
+}
+DIV.page DIV.core DIV.navaid {
+	WIDTH: 450px; PADDING-LEFT: 50px
+}
+* HTML DIV.page DIV.core DIV.navaid {
+	WIDTH: 450px; PADDING-LEFT: 50px
+}
+*:first-child + HTML DIV.page DIV.core DIV.navaid {
+	WIDTH: 450px; PADDING-LEFT: 50px
+}
+DIV.page DIV.core DIV.navaid A:hover {
+	BORDER-TOP-COLOR: #000; BORDER-LEFT-COLOR: #000; COLOR: #000; BORDER-BOTTOM-COLOR: #000; BORDER-RIGHT-COLOR: #000; BACKGROUND-COLOR: #cc9
+}
+DIV.page DIV.core DIV.navaid A:active {
+	BORDER-TOP-COLOR: #000; BORDER-LEFT-COLOR: #000; COLOR: #000; BORDER-BOTTOM-COLOR: #000; BORDER-RIGHT-COLOR: #000; BACKGROUND-COLOR: #cc9
+}
+DIV.page DIV.core DIV.navaid A:focus {
+	BORDER-TOP-COLOR: #000; BORDER-LEFT-COLOR: #000; COLOR: #000; BORDER-BOTTOM-COLOR: #000; BORDER-RIGHT-COLOR: #000; BACKGROUND-COLOR: #cc9
+}
+H2.nav {
+	FONT-SIZE: 0.95em; TEXT-DECORATION: none; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 10px; PADDING-LEFT: 15px; MARGIN: 0px 0px 5px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #990000
+}
+H2.nav A:link {
+	FONT-SIZE: 0.95em; TEXT-DECORATION: none; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 10px; PADDING-LEFT: 15px; MARGIN: 0px 0px 5px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #990000
+}
+H2.nav A:visited {
+	FONT-SIZE: 0.95em; TEXT-DECORATION: none; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 10px; PADDING-LEFT: 15px; MARGIN: 0px 0px 5px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #990000
+}
+H2.nav A:hover {
+	TEXT-DECORATION: underline
+}
+DIV.right LI UL.nav {
+	BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid
+}
+DIV.left LI.menucontent {
+	BORDER-BOTTOM: #fff 1px dotted
+}
+DIV.left DIV.menucontent {
+	BORDER-BOTTOM: #fff 1px dotted
+}
+DIV.left LI.menucontent {
+	COLOR: white; BACKGROUND-COLOR: #990000
+}
+DIV.left DIV.menucontent {
+	COLOR: white; BACKGROUND-COLOR: #990000
+}
+DIV.left A.menulink {
+	COLOR: white; BACKGROUND-COLOR: #990000
+}
+DIV.left A.menulink:hover {
+	TEXT-DECORATION: none; COLOR: white; BACKGROUND-COLOR: #770000
+}
+DIV.right LI.menucontent {
+	COLOR: #000; BACKGROUND-COLOR: #fff
+}
+DIV.right DIV.menucontent {
+	COLOR: #000; BACKGROUND-COLOR: #fff
+}
+DIV.right A.menulink {
+	COLOR: #000; BACKGROUND-COLOR: #fff
+}
+DIV.prodis {
+	BACKGROUND-COLOR: #696
+}
+DIV.center H1 {
+	COLOR: #000
+}
+H2 {
+	COLOR: #000
+}
+H3 {
+	COLOR: #000
+}
+H4 {
+	COLOR: #000
+}
+H5 {
+	COLOR: #000
+}
+H6 {
+	COLOR: #000
+}
+DIV.center A:link {
+	COLOR: black
+}
+DIV.center A:visited {
+	COLOR: #663300
+}
+DIV.blackborder {
+	BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid
+}
+DIV.blackborder:after {
+	HEIGHT: 0px; CONTENT: ""; CLEAR: left; DISPLAY: block; VISIBILITY: hidden
+}
+DIV.footer DIV.footerline {
+	BACKGROUND-COLOR: #333
+}
+DIV.footer A:link {
+	COLOR: black; BACKGROUND-COLOR: #fff
+}
+DIV.footer A:visited {
+	COLOR: black; BACKGROUND-COLOR: #fff
+}
+DIV.center DIV.footer A:link {
+	COLOR: black; BACKGROUND-COLOR: #fff
+}
+DIV.center DIV.footer A:visited {
+	COLOR: black; BACKGROUND-COLOR: #fff
+}
+DIV.center DIV.topPage A:link {
+	COLOR: black; BACKGROUND-COLOR: #fff
+}
+DIV.center DIV.topPage A:visited {
+	COLOR: black; BACKGROUND-COLOR: #fff
+}
+DIV.center P.topPage A:link {
+	COLOR: black; BACKGROUND-COLOR: #fff
+}
+DIV.center P.topPage A:visited {
+	COLOR: black; BACKGROUND-COLOR: #fff
+}
+.left LI {
+	BORDER-BOTTOM: #990000 1px dotted; FONT-WEIGHT: bold; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #990000
+}
+.left A {
+	TEXT-DECORATION: none; FONT-WEIGHT: lighter; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; PADDING-LEFT: 25px; MARGIN: 0px; DISPLAY: block; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #990000
+}
+.left A:link {
+	TEXT-DECORATION: none; FONT-WEIGHT: lighter; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; PADDING-LEFT: 25px; MARGIN: 0px; DISPLAY: block; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #990000
+}
+.left A:active {
+	TEXT-DECORATION: none; FONT-WEIGHT: lighter; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; PADDING-LEFT: 25px; MARGIN: 0px; DISPLAY: block; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #990000
+}
+.left A:visited {
+	TEXT-DECORATION: none; FONT-WEIGHT: lighter; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; PADDING-LEFT: 25px; MARGIN: 0px; DISPLAY: block; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #990000
+}
+.left A.linked_on-state:link {
+	TEXT-DECORATION: none; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; PADDING-LEFT: 25px; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #770000
+}
+.left A.linked_on-state:visited {
+	TEXT-DECORATION: none; COLOR: #ffffff; PADDING-BOTTOM: 4px; PADDING-TOP: 3px; PADDING-LEFT: 25px; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #770000
+}
+DIV.prodis {
+	BACKGROUND-COLOR: #880000
+}
+DIV#notices {
+	FONT-SIZE: 0.95em; FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-ALIGN: left; BACKGROUND-COLOR: #990000
+}
+UL.nav {
+	CLEAR: left
+}
+UL.search-nav {
+	LIST-STYLE-TYPE: none; OVERFLOW: visible; FONT-SIZE: 1em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: inline; LINE-HEIGHT: 14px; PADDING-RIGHT: 0px
+}
+LI.search-nav {
+	OVERFLOW: visible; TEXT-DECORATION: none; FLOAT: left; DISPLAY: inline; PADDING-RIGHT: 6px
+}
+.search-all {
+	OVERFLOW: visible; MARGIN-BOTTOM: 10px; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; WIDTH: 100%; BACKGROUND: url(/000/001/000001-misc05.gif); BORDER-BOTTOM: #000 1px solid; FLOAT: left; PADDING-BOTTOM: 5px; BORDER-LEFT: #000 1px solid; DISPLAY: block
+}
+search-all_input {
+	MARGIN-LEFT: 5px
+}
+.search_only {
+	MARGIN-LEFT: 5px
+}
+.search-all DIV {
+	FONT-SIZE: 1em; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; PADDING-LEFT: 2px; PADDING-RIGHT: 1px
+}
+.search-all DIV A {
+	TEXT-DECORATION: underline; COLOR: #000000
+}
+.search-all DIV A:link {
+	TEXT-DECORATION: underline; COLOR: #000000
+}
+.search-all DIV A:active {
+	TEXT-DECORATION: underline; COLOR: #000000
+}
+.search-all DIV A:visited {
+	TEXT-DECORATION: underline; COLOR: #000000
+}
+.search-all DIV A:hover {
+	COLOR: #990000
+}
+.search-all DIV#title {
+	FONT-SIZE: 1.05em; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; WIDTH: auto; BORDER-BOTTOM: #ccc 1px solid; FONT-WEIGHT: bold; COLOR: #ffffff; PADDING-BOTTOM: 7px; PADDING-TOP: 7px; PADDING-LEFT: 7px; MARGIN: 0px; BORDER-LEFT: #ccc 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: #990000
+}
+.search-all FORM {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 3px; MARGIN: 0px; DISPLAY: inline; PADDING-RIGHT: 0px
+}
+.search-all #searchbox {
+	WIDTH: 110px
+}
+.search-all #submit {
+	FONT-SIZE: 0.95em; BORDER-TOP: #999 1px solid; BORDER-RIGHT: #999 1px solid; BORDER-BOTTOM: #999 1px solid; COLOR: #000; MARGIN: 5px 3px 0px; BORDER-LEFT: #999 1px solid; BACKGROUND-COLOR: #ffffff
+}
+UL.error-list {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; MARGIN: 10px 5px 10px 15px; PADDING-RIGHT: 5px
+}
+UL.error-list LI UL {
+	PADDING-LEFT: 10px; MARGIN-LEFT: 10px
+}
